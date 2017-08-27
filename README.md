@@ -26,18 +26,9 @@
       <h2>
         Example Usage:
       </h2>
-      
       <code>https://hissing-olive.glitch.me/new/https://www.google.com</code><br><br>
       This prints the following json <br><br>
       <code>{"oldURL":"https://www.google.com","shortURL":"https://hissing-olive.glitch.me/g/e"}</code>
-      
     </div>
-
-    <!-- Your web-app is https, so your scripts need to be too -->
-    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
-            integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
-            crossorigin="anonymous"></script>
-    <script src="/client.js"></script>
-
-  </body>
+    </body>
 </html>
